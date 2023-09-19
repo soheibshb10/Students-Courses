@@ -3,7 +3,8 @@ Students Courses is a spring boot web application to manage students courses
 
 ## <span style="color:white">Backend:</span>
 
-- **repository layer**: is responsible for database operations. Hibernate uses Data Jpa dependency which is linked to MySQL.
+- **entity layer**: is responsible for database operations. Hibernate uses Data Jpa dependency which is linked to MySQL.
+- **repository layer**: is responsible to implement sql query in the specific table. 
 - **controller layer**: to control Restful APIs.
 - **exception layer**: to catch exceptions.
 - **service layer**: to manipulate the logic of this application.
