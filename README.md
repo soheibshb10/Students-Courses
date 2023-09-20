@@ -2,10 +2,10 @@
 Looking to enhance the world of education? Explore my latest GitHub project Students Courses is a spring boot web application to manage students courses.
 
 ## <span style="color:white"> About the Project:</span>
-**🎯 Announce Courses with Ease**: Educators, effortlessly announce courses, and engage students effectively.
-**📈 Control and Visualize Operations**: Gain real-time insights and control over educational processes.
-**🌐 Global Accessibility**: Extend your reach to learners worldwide.
-**🔐 Prioritize Security**: Protect educators' dashboard panels to ensure data remains secure.
+- **🎯 Announce Courses with Ease**: Educators, effortlessly announce courses, and engage students effectively.
+- **📈 Control and Visualize Operations**: Gain real-time insights and control over educational processes.
+- **🌐 Global Accessibility**: Extend your reach to learners worldwide.
+- **🔐 Prioritize Security**: Protect educators' dashboard panels to ensure data remains secure.
 
 ## <span style="color:white">Application structure:</span>
 
