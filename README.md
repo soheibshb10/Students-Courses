@@ -5,7 +5,7 @@ Looking to enhance the world of education? Explore my latest GitHub project Stud
 - **🎯 Announce Courses with Ease**: Educators, effortlessly announce courses, and engage students effectively.
 - **📈 Control and Visualize Operations**: Gain real-time insights and control over educational processes.
 - **🌐 Global Accessibility**: Extend your reach to learners worldwide.
-- **🔐 Prioritize Security**: Protect educators' dashboard panels to ensure data remains secure.
+- **🔐 Prioritize Security**: Protect educators dashboard panels to ensure data remains secure.
 - **👥 Foster Interaction**: Facilitate meaningful interactions among students and educators, enhancing the learning experience.
 
 
